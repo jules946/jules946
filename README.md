@@ -26,8 +26,8 @@ September 2021 - April 2022 | Edinburgh, Scotland, United Kingdom
 - Full-time tax associate.
 
 ## 🎓Education
-**Edinburgh Napier University** \
-Bachelors in Software Engineering \
+### Edinburgh Napier University
+**Bachelors in Software Engineering** \
 September 2022 - December 2025
 
 ## 📫Contact
