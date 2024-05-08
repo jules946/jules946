@@ -1,9 +1,10 @@
 # Welcome to My GitHub Profile!
 
 ## 🙋‍♂️About Me
-Hello, I'm currently working as a Junior Localisation Engineer at Rubric, where I focus on developing and refining localisation pipelines using Python. My daily work involves the utilisation of regular expressions, XML, and JSON. I collaborate with various teams to enhance translation processes and address issues as they arise.
 
-I hold strong competencies in tools like Git, JSONPath, XPath, and version control systems. Through agile project management, I constantly navigate challenges and ensure the reliability of our systems.
+Hello, I'm currently working as a Junior Localization Engineer at Rubric, where I focus on developing and refining localization pipelines using Python. My daily work involves automating localization processes to efficiently handle various formats of client files and make them translatable. I utilize Python along with regular expressions, XML, and JSON to build and maintain tools that streamline the translation and localization process.
+
+I collaborate closely with multiple teams to enhance translation processes and troubleshoot issues as they arise. My toolkit includes Git, JSONPath, XPath, and version control systems, which support my work in agile project environments. This allows me to effectively navigate challenges and ensure the reliability and scalability of our systems.
 
 ## 💼Professional Experience
 
