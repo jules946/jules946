@@ -6,7 +6,7 @@ I'm an Integrations & Business Travel Technology specialist at Vialto Partners, 
 ### Vialto Partners  
 **Integrations & Business Travel Technology**  
 December 2025 – Present | Edinburgh, Scotland  
-- Support client onboarding onto Vialto's API — validating business logic, UUID consistency, and end-to-end connection testing with sender systems, working closely with client IT and internal product teams.  
+- Support client onboarding onto Vialto's API — validating business logic and end-to-end connection testing with sender systems, working closely with client IT and internal product teams.  
 - Monitor integration health across the client portfolio, triaging issues in collaboration with client IT, sender system teams, and internal product squads.  
 - Contribute to the configuration and ongoing improvement of an automated compliance tool that assesses international travel data against visa, tax, and social security obligations.  
 - Maintain country-specific logic and conditional flows for automated Posted Worker Declaration (PWD) completion, working with upstream data sources to reduce manual effort and improve accuracy.
